@@ -10,7 +10,7 @@ st.code('''a = "Hello world"\nprint(a)''', language='python')
 st.write('''An integer type can be denoted with an int(), int means that it is a whole number.''')
 st.code('''b = 1\nprint(b)''', language='python')
 st.write('''A float is a number that contains decimal points. Which can be denoted using the float() function''')
-st.code('''c= 1.00\nprint(c)''', language='python')
+st.code('''c = 1.00\nprint(c)''', language='python')
 st.write('''A char data type denotes a character. Which can be denoted using the char() function''')
 st.code('''d = 'd'\nprint(d)''', language='python')
 st.write('''A boolean is a data type that can be set and returned using True or False values. 
